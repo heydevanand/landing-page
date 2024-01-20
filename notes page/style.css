@@ -1,0 +1,175 @@
+.NOTES {
+  background-color: #0b1d26;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.NOTES .div {
+  background-color: #0b1d26;
+  width: 1433px;
+  height: 1728px;
+  position: relative;
+}
+
+.NOTES .text-wrapper {
+  position: absolute;
+  width: 888px;
+  top: 99px;
+  left: 273px;
+  font-family: "Eras Bold ITC-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 128px;
+  text-align: center;
+  letter-spacing: 12.8px;
+  line-height: 128px;
+  white-space: nowrap;
+}
+
+.NOTES .icon-chevron-left {
+  position: absolute;
+  width: 72px;
+  height: 46px;
+  top: 32px;
+  left: 63px;
+}
+
+.NOTES .class-computer {
+  position: absolute;
+  width: 419px;
+  height: 216px;
+  top: 340px;
+  left: 783px;
+  font-family: "Britannic Bold-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0.4px;
+  line-height: 73px;
+}
+
+.NOTES .flexcontainer {
+  gap: 58px;
+  width: 509px;
+  top: 841px;
+  left: 738px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  height: 216px;
+}
+
+.NOTES .text {
+  line-height: 58px;
+  position: relative;
+  align-self: stretch;
+  font-family: "Britannic Bold-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0.4px;
+}
+
+.NOTES .span {
+  font-family: "Britannic Bold-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0.4px;
+  line-height: 58px;
+}
+
+.NOTES .flexcontainer-2 {
+  gap: 116px;
+  width: 528px;
+  top: 1358px;
+  left: 762px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  height: 216px;
+}
+
+.NOTES .span-wrapper {
+  line-height: 0.1px;
+  position: relative;
+  align-self: stretch;
+  font-family: "Britannic Bold-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0.4px;
+}
+
+.NOTES .text-wrapper-2 {
+  font-family: "Britannic Bold-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0.4px;
+  line-height: 0.1px;
+}
+
+.NOTES .image {
+  position: absolute;
+  width: 494px;
+  height: 293px;
+  top: 323px;
+  left: 93px;
+}
+
+.NOTES .overlap-group {
+  position: relative;
+  height: 293px;
+}
+
+.NOTES .rectangle {
+  position: absolute;
+  width: 494px;
+  height: 293px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.NOTES .img {
+  position: absolute;
+  width: 494px;
+  height: 293px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.NOTES .overlap-wrapper {
+  position: absolute;
+  width: 494px;
+  height: 293px;
+  top: 803px;
+  left: 93px;
+}
+
+.NOTES .image-wrapper {
+  position: absolute;
+  width: 494px;
+  height: 293px;
+  top: 1283px;
+  left: 99px;
+}
+
+.NOTES .overlap-group-wrapper {
+  height: 293px;
+}
+
+.NOTES .overlap-group-2 {
+  position: relative;
+  width: 494px;
+  height: 293px;
+}
